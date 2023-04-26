@@ -1,2 +1,2 @@
 # odin-landing-page
-A landing page layoung design using HTML and CSS/Flexbox
+A landing page layout design using HTML and CSS/Flexbox.
